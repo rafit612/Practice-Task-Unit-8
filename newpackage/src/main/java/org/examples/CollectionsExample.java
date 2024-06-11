@@ -7,7 +7,7 @@ public class CollectionsExample {
         // List example
         ListExample();
 
-        // Set example
+
         SetExample();
 
         // Queue example
