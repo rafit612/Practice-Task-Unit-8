@@ -3,7 +3,7 @@ interface Animal1 {
     // Abstract method
     void makeSound();
 
-    // Default method (Java 8+)
+    // Default method (Java 8+)//////////
     default void eat() {
         System.out.println("This animal is eating");
     }
