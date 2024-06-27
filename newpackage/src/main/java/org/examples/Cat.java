@@ -18,6 +18,7 @@ public class Cat implements Animal1 {
 
     public static void main(String[] args) {
         Cat cat = new Cat();
+        Cat cat2 = new Cat();
         cat.makeSound();
         cat.eat();
         Animal1 animal1 = new Cat();
